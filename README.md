@@ -1,4 +1,4 @@
-# todotype
+# NoteTypeFa
 
 To install dependencies:
 
